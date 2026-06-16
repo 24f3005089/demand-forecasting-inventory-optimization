@@ -1,4 +1,4 @@
-# Demand Forecasting & Inventory Optimization
+# AI-Powered Demand Forecasting & Inventory Optimization by XGBoost
 
 ## Overview
 
